@@ -100,8 +100,8 @@
 				A060DDCF220898C900306115 /* AppDelegate.swift */,
 				A060DDD1220898C900306115 /* ViewController.swift */,
 				A060DDD3220898C900306115 /* Main.storyboard */,
-				A060DDD6220898C900306115 /* Assets.xcassets */,
 				A060DDD8220898C900306115 /* LaunchScreen.storyboard */,
+				A060DDD6220898C900306115 /* Assets.xcassets */,
 				A060DDDB220898C900306115 /* Info.plist */,
 			);
 			path = OneLife;
